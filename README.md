@@ -2,8 +2,6 @@
 
 This is a freelance developer portfolio website built using **Django 4**, **Django REST Framework 3**, **React 18**, and **Material UI 5**.
 
-![plot](https://github.com/Frontend-Developer-ui/Freelance-Developer-Website/Frontend-Developer-ui/master/frontend/src/assets/images/?raw=true)
-
 
 ## Table of Contents 
 - [Prerequisites](#prerequisites)
